@@ -1,16 +1,17 @@
-## Hi there 👋
+# Ladislav Buček
 
-<!--
-**bucekla/bucekla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Last updated: 2026-11-08. -->
 
-Here are some ideas to get you started:
+I'm a bioinformatics MSc student at Charles University and a part-time junior bioinformatician at the Institute of Biotechnology, Czech Academy of Sciences.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I work with single-cell and spatial transcriptomics in cancer research. I'm interested in how cancer cells interact with their surroundings and why their behaviour differs between patients.
+
+## Selected project
+
+### [TrmD drug design](https://github.com/bucekla/TrmD_drug_design_project)
+
+A collaborative student project combining molecular docking and reinforcement-learning molecule generation to shortlist potential inhibitors of bacterial TrmD. The workflow uses AutoDock Vina, REINVENT 4 and computational ADMET assessment.
+
+## Tools I use
+
+Python, R, Scanpy, Squidpy and PyTorch. For research computing, I use Linux, Git and Apptainer on HPC systems, including MetaCentrum.
